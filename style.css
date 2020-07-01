@@ -1,0 +1,30 @@
+.Navig_item {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+    display: inline-block;
+
+    border: 2px solid darkblue;
+    box-shadow: inset 0px 1px 12px 2px;
+};
+    
+.Image {
+    display: inline;
+}
+
+.Google_item{
+    width: 200px;
+    height: 200px;
+}
+.p{
+    position: relative;
+}
+
+.fixed{
+    position: fixed;
+    border: 3px solid black;
+    border-left: 20px solid blue;
+    margin-right: 0px;
+    background-color: cornsilk;
+}
